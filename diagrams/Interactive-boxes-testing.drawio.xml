@@ -1,62 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-11-07T12:56:04.324Z" agent="5.0 (Macintosh)" etag="lXbLUNXk5g3Bkr6freFN" version="20.5.1" type="device">
+<mxfile host="app.diagrams.net" modified="2022-11-07T15:38:12.364Z" agent="5.0 (Macintosh)" etag="hJkagdWWqDaDjIHAztMh" version="20.5.1" type="device">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="1299" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1645" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
-          <mxCell style="locked=1;" parent="0" visible="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="3XLRL7M_OkBcDrSNOy5R-56">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
+        <UserObject label="RESET DISPLAY" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;AjjH1u0YhgZfVa7CJSuS-1&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-66&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-112&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-143&quot;,&quot;VWkiNKKKYGmfoevGy9SL-52&quot;,&quot;VWkiNKKKYGmfoevGy9SL-84&quot;,&quot;VWkiNKKKYGmfoevGy9SL-71&quot;,&quot;VWkiNKKKYGmfoevGy9SL-39&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-161&quot;,&quot;VWkiNKKKYGmfoevGy9SL-31&quot;,&quot;VWkiNKKKYGmfoevGy9SL-27&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-165&quot;,&quot;axZdhlEYQxV-8kcbevLk-3&quot;,&quot;axZdhlEYQxV-8kcbevLk-15&quot;,&quot;axZdhlEYQxV-8kcbevLk-29&quot;,&quot;axZdhlEYQxV-8kcbevLk-162&quot;,&quot;VWkiNKKKYGmfoevGy9SL-1&quot;,&quot;VWkiNKKKYGmfoevGy9SL-12&quot;,&quot;axZdhlEYQxV-8kcbevLk-175&quot;,&quot;axZdhlEYQxV-8kcbevLk-46&quot;,&quot;axZdhlEYQxV-8kcbevLk-135&quot;,&quot;axZdhlEYQxV-8kcbevLk-145&quot;,&quot;axZdhlEYQxV-8kcbevLk-63&quot;,&quot;axZdhlEYQxV-8kcbevLk-111&quot;,&quot;axZdhlEYQxV-8kcbevLk-121&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-101">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F86363;strokeColor=#B83027;" vertex="1" parent="3XLRL7M_OkBcDrSNOy5R-57">
+            <mxGeometry x="1720" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <object label="Leaf nodes" id="3XLRL7M_OkBcDrSNOy5R-58">
-          <mxCell style="locked=1;" parent="0" visible="0" />
-        </object>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-59" value="Some kind of sensitivity analyis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D70D0D;strokeWidth=6;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="834" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-60" value="Higher order Accumulated Local Effects Plots (ALEPlots)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-61" value="Data Shapley" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="660" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-62" value="Permutation feature importance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="234" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-63" value="SAGE (implemented as sage-importance in python)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="60" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-64" value="Influence functions/leverage scoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="2080" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-65" value="Data Shapley (with single test observation error as local loss)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="1900" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-66" value="Individual conditional Expectation plots (ICE)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="1764" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-67" value="LIME" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="1590" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-68" value="Counterfactual explanations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="1434" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-69" value="Anchors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="1260" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-70" value="PredDiff&amp;nbsp; (first order) " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="1170" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-71" value="SHAP using the independence assumption (Implemented in the python package shap)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="1060" y="840" width="136" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="3XLRL7M_OkBcDrSNOy5R-72" value="SHAP (Shapley) with properly estimated conditional distributions using e.g. the shapr R-package&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3XLRL7M_OkBcDrSNOy5R-58" vertex="1">
-          <mxGeometry x="870" y="840" width="150" height="100" as="geometry" />
-        </mxCell>
+        <UserObject label="SHOW ENTIRE TREE" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;AjjH1u0YhgZfVa7CJSuS-1&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-66&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-112&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-143&quot;,&quot;VWkiNKKKYGmfoevGy9SL-52&quot;,&quot;VWkiNKKKYGmfoevGy9SL-84&quot;,&quot;VWkiNKKKYGmfoevGy9SL-71&quot;,&quot;VWkiNKKKYGmfoevGy9SL-39&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-161&quot;,&quot;VWkiNKKKYGmfoevGy9SL-31&quot;,&quot;VWkiNKKKYGmfoevGy9SL-27&quot;,&quot;AjjH1u0YhgZfVa7CJSuS-165&quot;,&quot;axZdhlEYQxV-8kcbevLk-3&quot;,&quot;axZdhlEYQxV-8kcbevLk-15&quot;,&quot;axZdhlEYQxV-8kcbevLk-29&quot;,&quot;axZdhlEYQxV-8kcbevLk-162&quot;,&quot;VWkiNKKKYGmfoevGy9SL-1&quot;,&quot;VWkiNKKKYGmfoevGy9SL-12&quot;,&quot;axZdhlEYQxV-8kcbevLk-175&quot;,&quot;axZdhlEYQxV-8kcbevLk-46&quot;,&quot;axZdhlEYQxV-8kcbevLk-135&quot;,&quot;axZdhlEYQxV-8kcbevLk-145&quot;,&quot;axZdhlEYQxV-8kcbevLk-63&quot;,&quot;axZdhlEYQxV-8kcbevLk-111&quot;,&quot;axZdhlEYQxV-8kcbevLk-121&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-102">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9EE8A0;strokeColor=#82b366;" vertex="1" parent="3XLRL7M_OkBcDrSNOy5R-57">
+            <mxGeometry x="1880" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <object label="front" id="1">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
@@ -424,11 +384,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-39">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AjjH1u0YhgZfVa7CJSuS-1" vertex="1">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Specific prediction" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AjjH1u0YhgZfVa7CJSuS-1&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-139">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AjjH1u0YhgZfVa7CJSuS-1" vertex="1">
             <mxGeometry x="1490" y="110" width="120" height="60" as="geometry" />
@@ -471,11 +426,6 @@
             <mxPoint x="785" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-104">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AjjH1u0YhgZfVa7CJSuS-66" vertex="1">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Features" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;AjjH1u0YhgZfVa7CJSuS-143&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-159">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AjjH1u0YhgZfVa7CJSuS-66" vertex="1">
             <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
@@ -544,11 +494,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-137">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AjjH1u0YhgZfVa7CJSuS-112" vertex="1">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Changing the observed values" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;axZdhlEYQxV-8kcbevLk-3&quot;]}}]}" id="axZdhlEYQxV-8kcbevLk-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AjjH1u0YhgZfVa7CJSuS-112" vertex="1">
             <mxGeometry x="2080" y="420" width="120" height="60" as="geometry" />
@@ -609,11 +554,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-158">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AjjH1u0YhgZfVa7CJSuS-143" vertex="1">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Observing the features" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;VWkiNKKKYGmfoevGy9SL-52&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-65">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AjjH1u0YhgZfVa7CJSuS-143">
             <mxGeometry x="120" y="380" width="120" height="60" as="geometry" />
@@ -682,26 +622,186 @@
             <mxPoint x="185" y="555" as="sourcePoint" />
             <mxPoint x="294" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="585" />
-              <mxPoint x="294" y="585" />
+              <mxPoint x="180" y="640" />
+              <mxPoint x="294" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWkiNKKKYGmfoevGy9SL-63" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-52" source="VWkiNKKKYGmfoevGy9SL-59">
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-63" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-52" source="VWkiNKKKYGmfoevGy9SL-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="185" y="555" as="sourcePoint" />
-            <mxPoint x="120" y="700" as="targetPoint" />
+            <mxPoint x="80" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="585" />
-              <mxPoint x="120" y="585" />
+              <mxPoint x="180" y="640" />
+              <mxPoint x="80" y="640" />
+              <mxPoint x="80" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-64">
+        <UserObject label="One feature at a time" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;VWkiNKKKYGmfoevGy9SL-71&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-97">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-52">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
+            <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Joint efforts among features" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;VWkiNKKKYGmfoevGy9SL-84&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-98">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-52">
+            <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="A4.1-joint-efforts" id="VWkiNKKKYGmfoevGy9SL-84">
+          <mxCell style="locked=1;" visible="0" parent="0" />
+        </object>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-85" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-84">
+          <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-86" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-84" source="VWkiNKKKYGmfoevGy9SL-85" target="VWkiNKKKYGmfoevGy9SL-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="400" as="sourcePoint" />
+            <mxPoint x="1100" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-87" value="Are you interested in how the &lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt; or how the &lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt; impact the model/prediction?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-84">
+          <mxGeometry x="520" y="200" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-88" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-84">
+          <mxGeometry x="250" y="320" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-89" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-84" source="VWkiNKKKYGmfoevGy9SL-87" target="VWkiNKKKYGmfoevGy9SL-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709.91" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-90" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-84" source="VWkiNKKKYGmfoevGy9SL-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="500" as="sourcePoint" />
+            <mxPoint x="785" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-91" value="Do you want to explore &lt;u&gt;&lt;b&gt;one feature at a time&lt;/b&gt;&lt;/u&gt; or &lt;u&gt;&lt;b&gt;consider joint interactions&lt;/b&gt;&lt;/u&gt; among features? " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-84">
+          <mxGeometry x="40" y="480" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-92" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-84" source="VWkiNKKKYGmfoevGy9SL-88" target="VWkiNKKKYGmfoevGy9SL-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="420" as="sourcePoint" />
+            <mxPoint x="170" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="440" />
+              <mxPoint x="180" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-93" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-84" source="VWkiNKKKYGmfoevGy9SL-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="410" as="sourcePoint" />
+            <mxPoint x="520" y="555" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="520" />
+              <mxPoint x="520" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-94" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-84" source="VWkiNKKKYGmfoevGy9SL-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="555" as="sourcePoint" />
+            <mxPoint x="294" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="640" />
+              <mxPoint x="294" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-95" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-84" source="VWkiNKKKYGmfoevGy9SL-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="555" as="sourcePoint" />
+            <mxPoint x="80" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="640" />
+              <mxPoint x="80" y="640" />
+              <mxPoint x="80" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-100" value="SAGE (implemented as sage-importance in python)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-84">
+          <mxGeometry x="20" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="A4.2-one-feature" id="VWkiNKKKYGmfoevGy9SL-71">
+          <mxCell style="locked=1;" visible="0" parent="0" />
+        </object>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-72" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-71">
+          <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-73" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-71" source="VWkiNKKKYGmfoevGy9SL-72" target="VWkiNKKKYGmfoevGy9SL-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="400" as="sourcePoint" />
+            <mxPoint x="1100" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-74" value="Are you interested in how the &lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt; or how the &lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt; impact the model/prediction?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-71">
+          <mxGeometry x="520" y="200" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-75" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-71">
+          <mxGeometry x="250" y="320" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-76" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-71" source="VWkiNKKKYGmfoevGy9SL-74" target="VWkiNKKKYGmfoevGy9SL-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709.91" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-77" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-71" source="VWkiNKKKYGmfoevGy9SL-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="500" as="sourcePoint" />
+            <mxPoint x="785" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-78" value="Do you want to explore &lt;u&gt;&lt;b&gt;one feature at a time&lt;/b&gt;&lt;/u&gt; or &lt;u&gt;&lt;b&gt;consider joint interactions&lt;/b&gt;&lt;/u&gt; among features? " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-71">
+          <mxGeometry x="40" y="480" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-79" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-71" source="VWkiNKKKYGmfoevGy9SL-75" target="VWkiNKKKYGmfoevGy9SL-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="420" as="sourcePoint" />
+            <mxPoint x="170" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="440" />
+              <mxPoint x="180" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-80" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-71" source="VWkiNKKKYGmfoevGy9SL-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="410" as="sourcePoint" />
+            <mxPoint x="520" y="555" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="520" />
+              <mxPoint x="520" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-81" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-71" source="VWkiNKKKYGmfoevGy9SL-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="555" as="sourcePoint" />
+            <mxPoint x="294" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="640" />
+              <mxPoint x="294" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-82" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VWkiNKKKYGmfoevGy9SL-71" source="VWkiNKKKYGmfoevGy9SL-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="555" as="sourcePoint" />
+            <mxPoint x="80" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="640" />
+              <mxPoint x="80" y="640" />
+              <mxPoint x="80" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWkiNKKKYGmfoevGy9SL-99" value="Permutation feature importance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-71">
+          <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
         <object label="A3.2-changing-values" id="VWkiNKKKYGmfoevGy9SL-39">
           <mxCell style="locked=1;" visible="0" parent="0" />
         </object>
@@ -752,11 +852,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-51">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-39">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-67" value="Higher order Accumulated Local Effects Plots (ALEPlots)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VWkiNKKKYGmfoevGy9SL-39">
           <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
         </mxCell>
@@ -984,11 +1079,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="axZdhlEYQxV-8kcbevLk-12">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="axZdhlEYQxV-8kcbevLk-3" vertex="1">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Changing the observed values" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;axZdhlEYQxV-8kcbevLk-3&quot;]}}]}" id="axZdhlEYQxV-8kcbevLk-13">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="axZdhlEYQxV-8kcbevLk-3" vertex="1">
             <mxGeometry x="2080" y="420" width="120" height="60" as="geometry" />
@@ -1060,11 +1150,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="HIDE LEAF NODES" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;3XLRL7M_OkBcDrSNOy5R-58&quot;]}}]}" id="axZdhlEYQxV-8kcbevLk-24">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="axZdhlEYQxV-8kcbevLk-15" vertex="1">
-            <mxGeometry x="2270" y="210" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Changing the observed values" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;axZdhlEYQxV-8kcbevLk-3&quot;]}}]}" id="axZdhlEYQxV-8kcbevLk-25">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="axZdhlEYQxV-8kcbevLk-15" vertex="1">
             <mxGeometry x="2080" y="420" width="120" height="60" as="geometry" />
