@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T19:05:15.651Z" agent="5.0 (Windows)" etag="nHxSEhkmGt7i6QXA31DM" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T19:08:46.639Z" agent="5.0 (Windows)" etag="0HZ45Uxl3JABBQYyaDGh" version="20.4.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
     <mxGraphModel dx="3067" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -346,13 +346,13 @@
           </mxGeometry>
         </mxCell>
         <object label="root_explain" id="root_explain">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-65" value="&lt;div align=&quot;left&quot;&gt;You want to explain the whole model when:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;- &lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt;When you are interested in the model performance and &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;“typical” behavior&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt; of the model in general&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;- etc.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="root_explain" vertex="1">
           <mxGeometry x="1360" y="30" width="310" height="60" as="geometry" />
         </mxCell>
         <object label="model" id="model">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-67" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -389,7 +389,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat" id="model-feat">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-144" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-feat" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -449,7 +449,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ" id="model-feat-observ">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-53" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-feat-observ" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -533,7 +533,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ-joint" id="model-feat-observ-joint">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-85" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-feat-observ-joint" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -610,7 +610,7 @@
           <mxGeometry x="20" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-feat-observ-one" id="model-feat-observ-one">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-72" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-feat-observ-one" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -687,7 +687,7 @@
           <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-feat-change" id="model-feat-change">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-40" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-feat-change" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -740,7 +740,7 @@
           <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-obs" id="model-obs">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-162" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-obs" vertex="1">
           <mxGeometry x="610" y="320" width="350" height="90" as="geometry" />
@@ -776,7 +776,7 @@
           </mxCell>
         </UserObject>
         <object label="model-obs-observ" id="model-obs-observ">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-32" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-obs-observ" vertex="1">
           <mxGeometry x="610" y="320" width="350" height="90" as="geometry" />
@@ -805,7 +805,7 @@
           <mxGeometry x="660" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-obs-change" id="model-obs-change">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-28" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-obs-change" vertex="1">
           <mxGeometry x="610" y="320" width="350" height="90" as="geometry" />
@@ -834,7 +834,7 @@
           <mxGeometry x="840" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred" id="pred">
-          <mxCell style="" parent="0" visible="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-2" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -868,11 +868,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Specific prediction" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-139">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="pred" vertex="1">
-            <mxGeometry x="1490" y="110" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Features" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-feat&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-140">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="pred" vertex="1">
             <mxGeometry x="1520" y="220" width="120" height="60" as="geometry" />
@@ -884,7 +879,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-obs" id="pred-obs">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-113" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-obs" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -952,7 +947,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-obs-observ" id="pred-obs-observ">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-16" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-obs-observ" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -1023,7 +1018,7 @@
           <mxGeometry x="1900" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-obs-change" id="pred-obs-change">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-4" value="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-obs-change" vertex="1">
           <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
@@ -1094,7 +1089,7 @@
           <mxGeometry x="2080" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat" id="pred-feat">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-167" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1166,7 +1161,7 @@
           </mxGeometry>
         </mxCell>
         <object label="pred-feat-observ" id="pred-feat-observ">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-31" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1256,7 +1251,7 @@
           </mxGeometry>
         </mxCell>
         <object label="pred-feat-observ-joint" id="pred-feat-observ-joint">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-163" value="Do you want to &lt;u&gt;&lt;b&gt;obey or ignore the data distribution&lt;/b&gt;&lt;/u&gt; in the explanation? **" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ-joint" vertex="1">
           <mxGeometry x="690" y="820" width="270" height="60" as="geometry" />
@@ -1340,7 +1335,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-observ-joint-obey" id="pred-feat-observ-joint-obey">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-2" value="Do you want to &lt;u&gt;&lt;b&gt;obey or ignore the data distribution&lt;/b&gt;&lt;/u&gt; in the explanation? **" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ-joint-obey" vertex="1">
           <mxGeometry x="690" y="820" width="270" height="60" as="geometry" />
@@ -1417,7 +1412,7 @@
           <mxGeometry x="650" y="1000" width="150" height="100" as="geometry" />
         </mxCell>
         <object label="pred-feat-observ-joint-ignore" id="pred-feat-observ-joint-ignore">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-13" value="Do you want to &lt;u&gt;&lt;b&gt;obey or ignore the data distribution&lt;/b&gt;&lt;/u&gt; in the explanation? **" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ-joint-ignore" vertex="1">
           <mxGeometry x="690" y="820" width="270" height="60" as="geometry" />
@@ -1494,7 +1489,7 @@
           <mxGeometry x="850" y="1000" width="136" height="100" as="geometry" />
         </mxCell>
         <object label="pred-feat-observ-one" id="pred-feat-observ-one">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-177" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ-one" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1546,7 +1541,7 @@
           <mxGeometry x="1100" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-nearby" id="pred-feat-nearby">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-48" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-nearby" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1645,7 +1640,7 @@
           </mxGeometry>
         </mxCell>
         <object label="pred-feat-nearby-similar&#xa;" id="pred-feat-nearby-similar">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-136" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-nearby-similar" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1707,7 +1702,7 @@
           <mxGeometry x="1260" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-nearby-diff" id="pred-feat-nearby-diff">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-146" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-nearby-diff" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1769,7 +1764,7 @@
           <mxGeometry x="1430" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change" id="pred-feat-change">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-65" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-change" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1848,7 +1843,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-change-joint" id="pred-feat-change-joint">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-112" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-change-joint" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -1910,7 +1905,7 @@
           <mxGeometry x="1590" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change-one" id="pred-feat-change-one">
-          <mxCell style="" parent="0" />
+          <mxCell style="" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-122" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-change-one" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
