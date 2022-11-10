@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T14:48:42.493Z" agent="5.0 (Windows)" etag="khlllUw6RRB9wKtpTS2d" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T15:00:27.756Z" agent="5.0 (Windows)" etag="DuTTyZLRC5ValeIoMbmd" version="20.4.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
     <mxGraphModel dx="5398" dy="3569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
         <mxCell id="RZNP0fXKDCCi5CkOxJHr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3XLRL7M_OkBcDrSNOy5R-57" source="VWkiNKKKYGmfoevGy9SL-101" target="VWkiNKKKYGmfoevGy9SL-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="RESET DISPLAY" link="data:action/json,{   &quot;actions&quot;: [     {       &quot;hide&quot;: {         &quot;cells&quot;: [           &quot;model&quot;,           &quot;model-feat&quot;,           &quot;model-feat-observ&quot;,           &quot;model-feat-observ-joint&quot;,           &quot;model-feat-observ-one&quot;,           &quot;model-feat-change&quot;,           &quot;model-obs&quot;,           &quot;model-obs-observ&quot;,           &quot;model-obs-change&quot;,           &quot;pred&quot;,           &quot;pred-obs&quot;,           &quot;pred-obs-observ&quot;,           &quot;pred-obs-change&quot;,           &quot;pred-feat&quot;,           &quot;pred-feat-observ&quot;,           &quot;pred-feat-observ-joint&quot;,           &quot;pred-feat-observ-joint-obey&quot;,           &quot;pred-feat-observ-joint-ignore&quot;,           &quot;pred-feat-observ-one&quot;,           &quot;pred-feat-nearby&quot;,           &quot;pred-feat-nearby-similar&quot;,           &quot;pred-feat-nearby-diff&quot;,           &quot;pred-feat-change&quot;,           &quot;pred-feat-change-joint&quot;,           &quot;pred-feat-change-one&quot;,&quot;model-feat-observ-joint_explain&quot;         ]       }     }   ] }" id="VWkiNKKKYGmfoevGy9SL-101">
+        <UserObject label="RESET DISPLAY" link="data:action/json,{   &quot;actions&quot;: [     {       &quot;hide&quot;: {         &quot;cells&quot;: [           &quot;model&quot;,           &quot;model-feat&quot;,           &quot;model-feat-observ&quot;,           &quot;model-feat-observ-joint&quot;,           &quot;model-feat-observ-one&quot;,           &quot;model-feat-change&quot;,           &quot;model-obs&quot;,           &quot;model-obs-observ&quot;,           &quot;model-obs-change&quot;,           &quot;pred&quot;,           &quot;pred-obs&quot;,           &quot;pred-obs-observ&quot;,           &quot;pred-obs-change&quot;,           &quot;pred-feat&quot;,           &quot;pred-feat-observ&quot;,           &quot;pred-feat-observ-joint&quot;,           &quot;pred-feat-observ-joint-obey&quot;,           &quot;pred-feat-observ-joint-ignore&quot;,           &quot;pred-feat-observ-one&quot;,           &quot;pred-feat-nearby&quot;,           &quot;pred-feat-nearby-similar&quot;,           &quot;pred-feat-nearby-diff&quot;,           &quot;pred-feat-change&quot;,           &quot;pred-feat-change-joint&quot;,           &quot;pred-feat-change-one&quot;,&quot;model-feat-observ-joint_explain&quot;,&quot;root_explain&quot;         ]       }     }   ] }" id="VWkiNKKKYGmfoevGy9SL-101">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F86363;strokeColor=#B83027;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1">
             <mxGeometry x="1720" y="40" width="120" height="60" as="geometry" />
           </mxCell>
@@ -23,7 +23,7 @@
           <mxGeometry x="790" y="-150" width="940" height="160" as="geometry" />
         </mxCell>
         <object label="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;User instructions&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;The blue boxes contain questions with two or three possible answers provided in the connected red boxes.&lt;br&gt;Clicking on the red boxes opens up new questions the user must answer. Once the final question in the path is answered, a yellow box is displayed showing the name of the recommended method.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Extra features:&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[UNDO] If you need to go back one step, click on the red boxes with questions/method underneath them hides everything beneath them. If you want to clear the entire three, click on &quot;RESET DISPLAY&quot;. &lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[DISPLAY] If you want to explore the entire tree, click &quot;SHOW ENTIRE TREE&quot;.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;[QUESTION HELP] If you are unsure what to answer to a specific question, click on the bolded and underscored answers in the question to show one or more examples of use cases where the specific answer is appropriate.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;[METHOD INFO] If you click on the yellow method boxes in the bottom of the diagram, a new information box will be displayed containing a very brief explanation of the method, a link to software, the original paper and other resources describing the methodology.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;user_instructions&amp;quot;]}}]}&quot;&gt;Click here to hide these user instructions&lt;/a&gt;.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" id="user_instructions">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="3XLRL7M_OkBcDrSNOy5R-57">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3XLRL7M_OkBcDrSNOy5R-57">
             <mxGeometry x="-640" width="640" height="655" as="geometry" />
           </mxCell>
         </object>
@@ -66,13 +66,13 @@
           </mxGeometry>
         </mxCell>
         <object label="root_explain" id="root_explain">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-65" value="&lt;div align=&quot;left&quot;&gt;You want to explain the whole model when:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;- &lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt;When you are interested in the model performance and &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;“typical” behavior&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt; of the model in general&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 10.6667px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;NormalTextRun SCXW83225836 BCX9&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;- etc.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="root_explain" vertex="1">
           <mxGeometry x="1360" y="30" width="310" height="60" as="geometry" />
         </mxCell>
         <object label="model" id="model">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-69" value="Are you interested in how the &lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt; or how the &lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt; impact the model/prediction?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model" vertex="1">
           <mxGeometry x="520" y="200" width="170" height="80" as="geometry" />
@@ -100,7 +100,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat" id="model-feat">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-147" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-feat" vertex="1">
           <mxGeometry x="250" y="320" width="300" height="90" as="geometry" />
@@ -136,7 +136,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ" id="model-feat-observ">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-62" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="model-feat-observ" source="VWkiNKKKYGmfoevGy9SL-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -175,7 +175,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ-joint_explain" id="model-feat-observ-joint_explain">
-          <mxCell parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="&lt;div align=&quot;left&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; Uses &lt;a href=&quot;https://en.wikipedia.org/wiki/Shapley_value&quot;&gt;Shapley values&lt;/a&gt; from game theory to decompose the expected loss of the model onto the different features.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: The SAGE value of a feature says (roughly) how much the expected model loss is reduced by including the specific feature into the model.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;a href=&quot;https://github.com/iancovert/sage&quot;&gt;sage-importance (Python)&lt;/a&gt;&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;a href=&quot;https://proceedings.neurips.cc/paper/2020/file/c7bf0b7c1a86d5eb3be2c722cf2cf746-Paper.pdf&quot;&gt;Covert et. al (2020)&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;: &lt;a href=&quot;https://iancovert.com/blog/understanding-shap-sage/&quot;&gt;Blog by Ian Covert&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Computing Shapley values is computationally costly.&lt;/li&gt;&lt;li&gt;Currently available software does not account for feature dependence. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="RZNP0fXKDCCi5CkOxJHr-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="model-feat-observ-joint_explain">
@@ -186,7 +186,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model-feat-observ-joint" id="model-feat-observ-joint">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="SAGE (implemented as sage-importance in python)" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;model-feat-observ-joint_explain&quot;]}}]}" tags="" id="VWkiNKKKYGmfoevGy9SL-100">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-feat-observ-joint" vertex="1">
@@ -194,19 +194,19 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ-one" id="model-feat-observ-one">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-99" value="Permutation feature importance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-feat-observ-one" vertex="1">
           <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-feat-change" id="model-feat-change">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-67" value="Higher order Accumulated Local Effects Plots (ALEPlots)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-feat-change" vertex="1">
           <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-obs" id="model-obs">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-162" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-obs" vertex="1">
           <mxGeometry x="610" y="320" width="350" height="90" as="geometry" />
@@ -242,19 +242,19 @@
           </mxCell>
         </UserObject>
         <object label="model-obs-observ" id="model-obs-observ">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-37" value="Data Shapley" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-obs-observ" vertex="1">
           <mxGeometry x="660" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-obs-change" id="model-obs-change">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-38" value="Some kind of sensitivity analyis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D70D0D;strokeWidth=6;" parent="model-obs-change" vertex="1">
           <mxGeometry x="840" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred" id="pred">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-5" value="Are you interested in how the &lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt; or how the &lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt; impact the model/prediction?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred" vertex="1">
           <mxGeometry x="1730" y="200" width="230" height="60" as="geometry" />
@@ -290,7 +290,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-obs" id="pred-obs">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-117" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-obs" vertex="1">
           <mxGeometry x="1860" y="320" width="320" height="60" as="geometry" />
@@ -326,19 +326,19 @@
           </mxCell>
         </UserObject>
         <object label="pred-obs-observ" id="pred-obs-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-28" value="Data Shapley (with single test observation error as local loss)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-obs-observ" vertex="1">
           <mxGeometry x="1900" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-obs-change" id="pred-obs-change">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-27" value="Influence functions/leverage scoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-obs-change" vertex="1">
           <mxGeometry x="2080" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat" id="pred-feat">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-167" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features or how the instance &lt;u&gt;&lt;b&gt;relates to nearby model behaviour&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -410,7 +410,7 @@
           </mxGeometry>
         </mxCell>
         <object label="pred-feat-observ" id="pred-feat-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-33" value="Do you want to explore &lt;u&gt;&lt;b&gt;one feature at a time&lt;/b&gt;&lt;/u&gt; or &lt;u&gt;&lt;b&gt;consider joint interactions&lt;/b&gt;&lt;/u&gt; among features? " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ" vertex="1">
           <mxGeometry x="967" y="660" width="210" height="60" as="geometry" />
@@ -457,7 +457,7 @@
           </mxGeometry>
         </mxCell>
         <object label="pred-feat-observ-joint" id="pred-feat-observ-joint">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-163" value="Do you want to &lt;u&gt;&lt;b&gt;obey or ignore the data distribution&lt;/b&gt;&lt;/u&gt; in the explanation? **" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ-joint" vertex="1">
           <mxGeometry x="690" y="820" width="270" height="60" as="geometry" />
@@ -494,25 +494,25 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-observ-joint-obey" id="pred-feat-observ-joint-obey">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-25" value="SHAP (Shapley) with properly estimated conditional distributions using e.g. the shapr R-package&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-observ-joint-obey" vertex="1">
           <mxGeometry x="650" y="1000" width="150" height="100" as="geometry" />
         </mxCell>
         <object label="pred-feat-observ-joint-ignore" id="pred-feat-observ-joint-ignore">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-26" value="SHAP using the independence assumption (Implemented in the python package shap)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-observ-joint-ignore" vertex="1">
           <mxGeometry x="850" y="1000" width="136" height="100" as="geometry" />
         </mxCell>
         <object label="pred-feat-observ-one" id="pred-feat-observ-one">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-193" value="PredDiff&amp;nbsp; (first order) " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-observ-one" vertex="1">
           <mxGeometry x="1100" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-nearby" id="pred-feat-nearby">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-53" value="Do you want to compare the prediction with &lt;u&gt;&lt;b&gt;nearby predictions with a similar outcome&lt;/b&gt;&lt;/u&gt; or a &lt;u&gt;&lt;b&gt;different outcome&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-nearby" vertex="1">
           <mxGeometry x="1300" y="720" width="210" height="60" as="geometry" />
@@ -548,19 +548,19 @@
           </mxGeometry>
         </mxCell>
         <object label="pred-feat-nearby-similar&#xa;" id="pred-feat-nearby-similar">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-157" value="Anchors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-nearby-similar" vertex="1">
           <mxGeometry x="1260" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-nearby-diff" id="pred-feat-nearby-diff">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-158" value="Counterfactual explanations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-nearby-diff" vertex="1">
           <mxGeometry x="1430" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change" id="pred-feat-change">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-66" value="Do you want to explain the model in terms of &lt;u&gt;&lt;b&gt;one feature at a time&lt;/b&gt;&lt;/u&gt;, or &lt;u&gt;&lt;b&gt;consider joint interactions &lt;/b&gt;&lt;/u&gt;among features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-change" vertex="1">
           <mxGeometry x="1590" y="660" width="270" height="60" as="geometry" />
@@ -596,13 +596,13 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-change-joint" id="pred-feat-change-joint">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-132" value="LIME" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-change-joint" vertex="1">
           <mxGeometry x="1590" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change-one" id="pred-feat-change-one">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-133" value="Individual conditional Expectation plots (ICE)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-change-one" vertex="1">
           <mxGeometry x="1760" y="900" width="120" height="60" as="geometry" />
