@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:01:22.158Z" agent="5.0 (Windows)" etag="W223vvrOpVzHYNOYuS4u" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T10:12:19.352Z" agent="5.0 (Windows)" etag="BDwxVO8QFyruH1TVJr5t" version="20.4.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="4827" dy="3352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4000" dy="3352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="RZNP0fXKDCCi5CkOxJHr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3XLRL7M_OkBcDrSNOy5R-57" source="VWkiNKKKYGmfoevGy9SL-101" target="VWkiNKKKYGmfoevGy9SL-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="RESET DISPLAY" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;model&quot;,&quot;model-feat&quot;,&quot;model-feat-observ&quot;,&quot;model-feat-observ-joint&quot;,&quot;model-feat-observ-one&quot;,&quot;model-feat-change&quot;,&quot;model-obs&quot;,&quot;model-obs-observ&quot;,&quot;model-obs-change&quot;,&quot;pred&quot;,&quot;pred-obs&quot;,&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-feat&quot;,&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;model-feat-observ-joint_explain&quot;,&quot;root_explain&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-101">
+        <UserObject label="RESET DISPLAY" link="data:action/json,{&quot;actions&quot;:[{&quot;hide&quot;:{&quot;cells&quot;:[&quot;model&quot;,&quot;model-feat&quot;,&quot;model-feat-observ&quot;,&quot;model-feat-observ-joint&quot;,&quot;model-feat-observ-one&quot;,&quot;model-feat-change&quot;,&quot;model-obs&quot;,&quot;model-obs-observ&quot;,&quot;model-obs-change&quot;,&quot;pred&quot;,&quot;pred-obs&quot;,&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-feat&quot;,&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;model-feat-observ-joint_explain&quot;,&quot;model-feat-observ-one_explain&quot;,&quot;root_explain&quot;,&quot;details&quot;,&quot;user_instructions&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-101">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F86363;strokeColor=#B83027;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1">
             <mxGeometry x="1720" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="SHOW ENTIRE TREE" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;root&quot;,&quot;model&quot;,&quot;model-feat&quot;,&quot;model-feat-observ&quot;,&quot;model-feat-observ-joint&quot;,&quot;model-feat-observ-one&quot;,&quot;model-feat-change&quot;,&quot;model-obs&quot;,&quot;model-obs-observ&quot;,&quot;model-obs-change&quot;,&quot;pred&quot;,&quot;pred-obs&quot;,&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-feat&quot;,&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-joint&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-102">
+        <UserObject label="SHOW ENTIRE TREE" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;root&quot;,&quot;model&quot;,&quot;model-feat&quot;,&quot;model-feat-observ&quot;,&quot;model-feat-observ-joint&quot;,&quot;model-feat-observ-one&quot;,&quot;model-feat-change&quot;,&quot;model-obs&quot;,&quot;model-obs-observ&quot;,&quot;model-obs-change&quot;,&quot;pred&quot;,&quot;pred-obs&quot;,&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-feat&quot;,&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;details&quot;,&quot;user_instructions&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-102">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9EE8A0;strokeColor=#82b366;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1">
             <mxGeometry x="1880" y="40" width="120" height="60" as="geometry" />
           </mxCell>
@@ -23,12 +23,12 @@
           <mxGeometry x="790" y="-150" width="940" height="160" as="geometry" />
         </mxCell>
         <object label="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;User instructions&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;The blue boxes contain questions with two or three possible answers provided in the connected red boxes.&lt;br&gt;Clicking on the red boxes opens up new questions the user must answer. Once the final question in the path is answered, a yellow box is displayed showing the name of the recommended method.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Extra features:&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[UNDO] If you need to go back one step, click on the red boxes with questions/method underneath them hides everything beneath them. If you want to clear the entire three, click on &quot;RESET DISPLAY&quot;. &lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[DISPLAY] If you want to explore the entire tree, click &quot;SHOW ENTIRE TREE&quot;.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;[QUESTION HELP] If you are unsure what to answer to a specific question, click on the bolded and underscored answers in the question to show one or more examples of use cases where the specific answer is appropriate.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;[METHOD INFO] If you click on the yellow method boxes in the bottom of the diagram, a new information box will be displayed containing a very brief explanation of the method, a link to software, the original paper and other resources describing the methodology.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;user_instructions&amp;quot;]}}]}&quot;&gt;Click here to hide these user instructions&lt;/a&gt;.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" id="user_instructions">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1" visible="0">
             <mxGeometry x="-640" width="640" height="655" as="geometry" />
           </mxCell>
         </object>
         <object label="root" id="root">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="" parent="0" />
         </object>
         <UserObject label="Do you want to explain the &lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt; or &lt;u&gt;&lt;b&gt;specific predictions?&lt;/b&gt;&lt;/u&gt;" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;root_explain&quot;]}}]}" tooltip="You want to explain the whole model when:&#xa; - When you are interested in the model performance and  “typical” behavior of the model in general.&#xa; - etc." id="AjjH1u0YhgZfVa7CJSuS-45">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="root" vertex="1">
@@ -72,7 +72,7 @@
           <mxGeometry x="1360" y="30" width="310" height="60" as="geometry" />
         </mxCell>
         <object label="model" id="model">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-69" value="Are you interested in how the &lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt; or how the &lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt; impact the model/prediction?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model" vertex="1">
           <mxGeometry x="520" y="200" width="170" height="80" as="geometry" />
@@ -100,7 +100,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat" id="model-feat">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-147" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-feat" vertex="1">
           <mxGeometry x="250" y="320" width="300" height="90" as="geometry" />
@@ -136,7 +136,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ" id="model-feat-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-62" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="model-feat-observ" source="VWkiNKKKYGmfoevGy9SL-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -186,7 +186,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model-feat-observ-joint" id="model-feat-observ-joint">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="SAGE (implemented as sage-importance in python)" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;model-feat-observ-joint_explain&quot;]}}]}" tags="" id="VWkiNKKKYGmfoevGy9SL-100">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-feat-observ-joint" vertex="1">
@@ -194,7 +194,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ-one_explain" id="model-feat-observ-one_explain">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="&lt;div align=&quot;left&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; Permutes the features the features in the training data one by one. Those giving the large decrease in model performance are most important. &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: The relative or absolute change in model performance due to each of the feature being excluded from the model.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;a href=&quot;https://github.com/koalaverse/vip/&quot;&gt;vip (vi_permute, R)&lt;/a&gt;, &lt;a href=&quot;https://scikit-learn.org/stable/modules/permutation_importance.html&quot;&gt;scikit-learn (permutation_importance, Python)&lt;/a&gt; + many others&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;/font&gt;&lt;a href=&quot;https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf&quot;&gt;Breiman (2001)&lt;/a&gt;, &lt;a href=&quot;https://www.jmlr.org/papers/volume20/18-760/18-760.pdf&quot;&gt;Fisher et al (2008)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;: &lt;a href=&quot;https://christophm.github.io/interpretable-ml-book/feature-importance.html&quot;&gt;Chapter in Molnar&#39;s IML book&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Also called model reliance&lt;/li&gt;&lt;li&gt;First proposed for random forest by &lt;a href=&quot;https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf&quot;&gt;Breiman (2001)&lt;/a&gt;, later generalized by &lt;a href=&quot;https://www.jmlr.org/papers/volume20/18-760/18-760.pdf&quot;&gt;Fisher et al (2008)&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="model-feat-observ-one_explain">
@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <object label="model-feat-observ-one" id="model-feat-observ-one">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="Permutation feature importance" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;model-feat-observ-one_explain&quot;]}}]}" id="VWkiNKKKYGmfoevGy9SL-99">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-feat-observ-one" vertex="1">
@@ -216,13 +216,13 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-change" id="model-feat-change">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-67" value="Higher order Accumulated Local Effects Plots (ALEPlots)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-feat-change" vertex="1">
           <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-obs" id="model-obs">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-162" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;including the &lt;br&gt;observations&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="model-obs" vertex="1">
           <mxGeometry x="610" y="320" width="350" height="90" as="geometry" />
@@ -258,19 +258,19 @@
           </mxCell>
         </UserObject>
         <object label="model-obs-observ" id="model-obs-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-37" value="Data Banzhaf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="model-obs-observ" vertex="1">
           <mxGeometry x="660" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="model-obs-change" id="model-obs-change">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-38" value="Some kind of sensitivity analyis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#D70D0D;strokeWidth=6;" parent="model-obs-change" vertex="1">
           <mxGeometry x="840" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred" id="pred">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-5" value="Are you interested in how the &lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt; or how the &lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt; impact the model/prediction?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred" vertex="1">
           <mxGeometry x="1730" y="200" width="230" height="60" as="geometry" />
@@ -306,7 +306,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-obs" id="pred-obs">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-117" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, or the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-obs" vertex="1">
           <mxGeometry x="1860" y="320" width="320" height="60" as="geometry" />
@@ -342,13 +342,13 @@
           </mxCell>
         </UserObject>
         <object label="pred-obs-observ" id="pred-obs-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-28" value="Data Shapley (with single test observation error as local loss)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-obs-observ" vertex="1">
           <mxGeometry x="1900" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat" id="pred-feat">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-167" value="Are you interested in the effect of recording/using/&lt;u&gt;&lt;b&gt;observing the &lt;br&gt;features&lt;/b&gt;&lt;/u&gt;, the effect of &lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat" vertex="1">
           <mxGeometry x="1340" y="480" width="390" height="60" as="geometry" />
@@ -395,7 +395,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-observ" id="pred-feat-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-33" value="Do you want to explore &lt;u&gt;&lt;b&gt;one feature at a time&lt;/b&gt;&lt;/u&gt; or &lt;u&gt;&lt;b&gt;consider joint interactions&lt;/b&gt;&lt;/u&gt; among features? " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat-observ" vertex="1">
           <mxGeometry x="967" y="660" width="210" height="60" as="geometry" />
@@ -442,13 +442,13 @@
           </mxGeometry>
         </mxCell>
         <object label="pred-obs-change" id="pred-obs-change">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-27" value="Influence functions/leverage scoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-obs-change" vertex="1">
           <mxGeometry x="2080" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-observ-joint" id="pred-feat-observ-joint">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="d4Mapz3kvTVa62sBlJeO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=2;" edge="1" parent="pred-feat-observ-joint" source="axZdhlEYQxV-8kcbevLk-163" target="VWkiNKKKYGmfoevGy9SL-23">
           <mxGeometry relative="1" as="geometry" />
@@ -491,25 +491,25 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-observ-joint-obey" id="pred-feat-observ-joint-obey">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-25" value="Conditional Shapley values" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-observ-joint-obey" vertex="1">
           <mxGeometry x="650" y="1000" width="150" height="100" as="geometry" />
         </mxCell>
         <object label="pred-feat-observ-joint-ignore" id="pred-feat-observ-joint-ignore">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-26" value="Marginal Shapley values" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-observ-joint-ignore" vertex="1">
           <mxGeometry x="850" y="1000" width="136" height="100" as="geometry" />
         </mxCell>
         <object label="pred-feat-observ-one" id="pred-feat-observ-one">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-193" value="PredDiff&amp;nbsp; (first order) " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-observ-one" vertex="1">
           <mxGeometry x="1100" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change" id="pred-feat-change">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="d4Mapz3kvTVa62sBlJeO-36" value="Are you interested in how changes in the observed value affects a &lt;u&gt;&lt;b&gt;continous prediction&lt;/b&gt;&lt;/u&gt; outcome, or ultimately how the changes affects a &lt;u&gt;&lt;b&gt;categorical decision&lt;/b&gt;&lt;/u&gt;?&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pred-feat-change">
           <mxGeometry x="1620" y="670" width="220" height="80" as="geometry" />
@@ -546,7 +546,7 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-change-cat" id="pred-feat-change-cat">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="Same decision" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-feat-change-cat-same&quot;]}}]}" id="axZdhlEYQxV-8kcbevLk-155">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="pred-feat-change-cat" vertex="1">
@@ -582,19 +582,19 @@
           <mxGeometry x="1280" y="830" width="210" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change-cat-same&#xa;" id="pred-feat-change-cat-same">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-157" value="Anchors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-change-cat-same" vertex="1">
           <mxGeometry x="1249" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change-cat-diff" id="pred-feat-change-cat-diff">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-158" value="Counterfactual explanations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-change-cat-diff" vertex="1">
           <mxGeometry x="1419" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change-cont" id="pred-feat-change-cont">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" visible="0" parent="0" />
         </object>
         <mxCell id="d4Mapz3kvTVa62sBlJeO-39" value="Do you want to explain the prediction in terms of &lt;u&gt;&lt;b&gt;one feature at a time&lt;/b&gt;&lt;/u&gt;, or &lt;u&gt;&lt;b&gt;consider joint interactions &lt;/b&gt;&lt;/u&gt;among features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pred-feat-change-cont">
           <mxGeometry x="1928" y="790" width="270" height="60" as="geometry" />
@@ -630,77 +630,77 @@
           </mxCell>
         </UserObject>
         <object label="pred-feat-change-cont-joint" id="pred-feat-change-cont-joint">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-132" value="LIME" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-change-cont-joint" vertex="1">
           <mxGeometry x="1928" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="pred-feat-change-cont-one" id="pred-feat-change-cont-one">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="axZdhlEYQxV-8kcbevLk-133" value="Individual conditional Expectation plots (ICE)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="pred-feat-change-cont-one" vertex="1">
           <mxGeometry x="2098" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <object label="tmp" id="d4Mapz3kvTVa62sBlJeO-5">
-          <mxCell style="locked=1;" parent="0" />
+        <object label="details" id="details">
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ALEPlots&lt;/font&gt; &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="80" y="1370" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Banzhaf&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; Uses &lt;a href=&quot;http://eio.usc.es/pub/mte/descargas/ProyectosFinMaster/Proyecto_377.pdf#section.1.3&quot;&gt;Banzhaf values&lt;/a&gt; from game theory to decompose a model performance metric onto the training observations.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: The Banzhaf value of an observation is an unnormalized measure of how the model performance metric is affected by the inclusion of the observation.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: Currently not available&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;a href=&quot;https://arxiv.org/pdf/2205.15466.pdf&quot;&gt;Wang &amp;amp; Jia (2022)&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;a href=&quot;http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf&quot;&gt;Data Shapley&lt;/a&gt; is a related and alternative method using Shapley values instead of Banzhaf values. &lt;a href=&quot;https://arxiv.org/pdf/2205.15466.pdf&quot;&gt;There are theoretical and experiment based reasons to prefer Data Banzhaf&lt;/a&gt;, but Data Shapley has &lt;a href=&quot;https://github.com/amiratag/DataShapley&quot;&gt;available software&lt;/a&gt;.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-7">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="300" y="1370" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Sensitivity analysis&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="530" y="1370" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Conditional Shapley values&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Uses &lt;a href=&quot;https://en.wikipedia.org/wiki/Shapley_value&quot;&gt;Shapley values&lt;/a&gt; from game theory to decompose the prediction outcome onto the different features. Uses conditional expectation to measure feature contribution, and obeys the data distribution when estimating these. &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: The Shapley value of a feature says (roughly!) how of the prediction changed due to the feature being observed.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;a href=&quot;https://github.com/NorskRegnesentral/shapr&quot;&gt;shapr (R)&lt;/a&gt;&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0004370221000539&quot;&gt;Aas et al. (2020)&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;: &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Estimation of the conditional expectations measuring the feature contribution is a reserach topic on its own. For continuous unimodal data, we recommend the Gaussian approach, for mixed data we recommend the &lt;a href=&quot;https://arxiv.org/pdf/2007.01027.pdf&quot;&gt;ctree approach &lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-9">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="700" y="1120" width="210" height="520" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Marginal Shapley values&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Uses &lt;a href=&quot;https://en.wikipedia.org/wiki/Shapley_value&quot;&gt;Shapley values&lt;/a&gt;&lt;br&gt; from game theory to decompose the prediction outcome onto the different&lt;br&gt; features. Uses conditional expectation to measure feature contribution,&lt;br&gt;but ignores the data distribution when estimating them. &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;The Shapley value of a feature says (roughly!) how of the prediction changed due to the feature being observed.&lt;/font&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;a href=&quot;https://github.com/NorskRegnesentral/shapr&quot;&gt;shapr (with approach=&quot;independence&quot;, R)&lt;/a&gt;, &lt;a href=&quot;https://github.com/slundberg/shap&quot;&gt;shap (Python)&lt;/a&gt;&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;a href=&quot;https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf&quot;&gt;Lundberg &amp;amp; Lee (2017)&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;: &lt;a href=&quot;https://christophm.github.io/interpretable-ml-book/shap.html&quot;&gt;Section in Molnar&#39;s IML book&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="910" y="1120" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PredDiff&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; Measure the change in prediction by observing the changes when removing each of the features.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: The (first order) PredDiff value says how the prediction changes by observing this feature, provided all other features are observed.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;a href=&quot;https://github.com/PredDiff/PredDiffTabular&quot;&gt;PredDiff (Python, not recently updated)&lt;/a&gt;&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;a href=&quot;http://lkm.fri.uni-lj.si/rmarko/papers/RobnikSikonjaKononenko08-TKDE.pdf&quot;&gt;Robnik-Sikonja &amp;amp; Kononeko (2008)&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;: &lt;a href=&quot;https://reader.elsevier.com/reader/sd/pii/S000437022200114X?token=31D1D187B0AE46267065FA528B505D6CAFCB45DA2537A35572C9EEDFF191673EBE711C6CD0416D838382EB6797E60322&amp;amp;originRegion=eu-west-1&amp;amp;originCreation=20221115200205&quot;&gt;Recent clarification paper (with extensions) of Blücher et al.&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-11">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="1120" y="1110" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Anchors&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-12">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="1330" y="1110" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Counterfactual explanations&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-13">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="1530" y="1110" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;LIME&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-14">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="1740" y="1110" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ICE&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-15">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="1910" y="1110" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Single observation Data Shapley&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-16">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="2120" y="1110" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Influence functions/leverage scoring&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="d4Mapz3kvTVa62sBlJeO-17">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="d4Mapz3kvTVa62sBlJeO-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" vertex="1" parent="details">
             <mxGeometry x="2330" y="1110" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
