@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T18:33:32.884Z" agent="5.0 (Windows)" etag="ENinpizxfjB5D8Cec8JN" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T18:53:10.577Z" agent="5.0 (Windows)" etag="ghOC437wuVp-BCBhmSMt" version="20.4.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="11494" dy="6989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -695,7 +695,7 @@
         <mxCell id="DSaCtTH1Q7Cy4xbUBW9x-1" value="EXAMPLE OF QUESTION HELPER BOX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tmp">
           <mxGeometry x="350" y="660" width="346" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="DSaCtTH1Q7Cy4xbUBW9x-2" value="EXAMPLE OF QUESTION HELPER BOX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tmp">
+        <mxCell id="DSaCtTH1Q7Cy4xbUBW9x-2" value="&lt;div align=&quot;left&quot;&gt;EXAMPLES OF CASES WHERE CHANGING THE FEATURE IS APPROPRIATE&lt;br&gt;&lt;ul&gt;&lt;li&gt;You feature space is set and defined (e.g. guided by predefined criteria set in practice, guidelines or law), and you want to understand how a given changes in feature values impact model outcomes, e.g. to show that the model adheres to expectations / regulation. &lt;/li&gt;&lt;li&gt;Your features are prone to erratic behaviour and you want to assess the stability of model outcomes wrt to these changes.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="tmp">
           <mxGeometry x="-170" y="660" width="346" height="180" as="geometry" />
         </mxCell>
       </root>
