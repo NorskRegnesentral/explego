@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-11-16T14:24:54.326Z" agent="5.0 (Macintosh)" etag="06MTjM-fMCGgY6RYI7xF" version="20.5.3" type="device">
+<mxfile host="app.diagrams.net" modified="2022-11-16T18:33:32.884Z" agent="5.0 (Windows)" etag="ENinpizxfjB5D8Cec8JN" version="20.4.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="2061" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="11494" dy="6989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -509,7 +508,7 @@
             <mxGeometry x="2160" y="1060" width="120" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Py3Ku5oA-3E2rJpxyIpM-4" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0.445;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="pred-feat-change" source="d4Mapz3kvTVa62sBlJeO-36">
+        <mxCell id="Py3Ku5oA-3E2rJpxyIpM-4" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0.445;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="pred-feat-change" source="d4Mapz3kvTVa62sBlJeO-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2480.999999999999" y="1170" as="sourcePoint" />
             <mxPoint x="2721" y="1300" as="targetPoint" />
@@ -520,7 +519,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Py3Ku5oA-3E2rJpxyIpM-5" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="pred-feat-change" source="d4Mapz3kvTVa62sBlJeO-36">
+        <mxCell id="Py3Ku5oA-3E2rJpxyIpM-5" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="pred-feat-change" source="d4Mapz3kvTVa62sBlJeO-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2410" y="1050" as="sourcePoint" />
             <mxPoint x="2200" y="1160" as="targetPoint" />
@@ -544,7 +543,7 @@
             <mxGeometry x="2240" y="1369" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="axZdhlEYQxV-8kcbevLk-159" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="pred-feat-change-cat" edge="1" source="d4Mapz3kvTVa62sBlJeO-37">
+        <mxCell id="axZdhlEYQxV-8kcbevLk-159" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="pred-feat-change-cat" source="d4Mapz3kvTVa62sBlJeO-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1709" y="1079" as="sourcePoint" />
             <mxPoint x="2320" y="1470" as="targetPoint" />
@@ -554,7 +553,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axZdhlEYQxV-8kcbevLk-160" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="pred-feat-change-cat" edge="1" source="d4Mapz3kvTVa62sBlJeO-37">
+        <mxCell id="axZdhlEYQxV-8kcbevLk-160" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="pred-feat-change-cat" source="d4Mapz3kvTVa62sBlJeO-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1709" y="1079" as="sourcePoint" />
             <mxPoint x="2100" y="1470" as="targetPoint" />
@@ -690,6 +689,15 @@
             <mxGeometry x="3040" y="760" width="210" height="460" as="geometry" />
           </mxCell>
         </UserObject>
+        <object label="tmp" id="tmp">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="DSaCtTH1Q7Cy4xbUBW9x-1" value="EXAMPLE OF QUESTION HELPER BOX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tmp">
+          <mxGeometry x="350" y="660" width="346" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaCtTH1Q7Cy4xbUBW9x-2" value="EXAMPLE OF QUESTION HELPER BOX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tmp">
+          <mxGeometry x="-170" y="660" width="346" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
