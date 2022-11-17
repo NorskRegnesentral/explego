@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T21:41:49.209Z" agent="5.0 (Windows)" etag="TmZmU5cVyQP0twP_zzlP" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T21:46:17.237Z" agent="5.0 (Windows)" etag="FXUmUSUX69g2rupaAMhj" version="20.4.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="5333" dy="4079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3736" dy="2756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -674,7 +674,7 @@
           </mxCell>
         </object>
         <object label="tmp" id="Kx8UVn3iyn3a3dbXKWuh-14">
-          <mxCell style="" parent="0" visible="0" />
+          <mxCell style="" parent="0" />
         </object>
         <UserObject label="SHOW ALL NODES!" link="data:action/json,{&quot;actions&quot;:[{&quot;show&quot;:{&quot;cells&quot;:[&quot;*&quot;]}}]}" id="Kx8UVn3iyn3a3dbXKWuh-15">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=#000000;fontSize=12;fontColor=#000000;fillColor=#CCFFCC;" vertex="1" parent="Kx8UVn3iyn3a3dbXKWuh-14">
@@ -761,6 +761,9 @@
             <mxGeometry x="2830" y="1155" width="350" height="145" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="Kx8UVn3iyn3a3dbXKWuh-51" value="&lt;div&gt;TODO before BI-day:&lt;/div&gt;&lt;div&gt;1. rename example boxes, link them to the right text, and make that text the right color&lt;/div&gt;&lt;div&gt;2. Add the examples to the reset-display button&lt;/div&gt;&lt;div&gt;3. Make someone else look over all text and whether all links do what it is supposed to do.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=21;fontColor=#007FFF;fillColor=#CCFFCC;" vertex="1" parent="Kx8UVn3iyn3a3dbXKWuh-14">
+          <mxGeometry x="2060" y="-200" width="310" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
