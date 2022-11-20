@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T12:16:47.750Z" agent="5.0 (Windows)" etag="xOqBKYbZ6aeTvt_i5JRW" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T12:17:03.128Z" agent="5.0 (Windows)" etag="PBNl4xgZvCG4pzkgA6Jx" version="20.4.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
     <mxGraphModel dx="3200" dy="2915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" />
         </object>
         <mxCell id="RZNP0fXKDCCi5CkOxJHr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3XLRL7M_OkBcDrSNOy5R-57" source="VWkiNKKKYGmfoevGy9SL-101" target="VWkiNKKKYGmfoevGy9SL-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -663,12 +663,12 @@
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;EXAMPLE CASES: WHOLE MODEL&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When you are interested in the model performance and “typical” behavior of the model in general. &lt;br&gt;&lt;/li&gt;&lt;li&gt;You want to assess whether the model adheres to business logic / regulatory stipulations &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="model_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="1071" y="200" width="339" height="130" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;EXAMPLE CASES: SPECIFIC PREDICTIONS&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When you are interested in the model performance and behavior for specific individuals/instances/observations. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Your model outcome has consequences for end users (e.g. direct or indirect access to service/benefit/options/etc)&amp;nbsp; &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="pred_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="1071" y="230" width="339" height="130" as="geometry" />
           </mxCell>
         </object>
