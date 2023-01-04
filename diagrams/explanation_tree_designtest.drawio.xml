@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T21:44:54.295Z" agent="5.0 (Windows)" etag="soNKX8bUjsslTYabMuG3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T08:33:30.172Z" agent="5.0 (Windows)" etag="udhLbJ78QHzUx-Y36cEh" version="20.6.0" type="github">
   <diagram id="s8VqQKjpLIa4k-QzSDBm" name="Page-1">
-    <mxGraphModel dx="3547" dy="2724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -23,7 +23,7 @@
           <mxGeometry x="790" y="-152" width="940" height="160" as="geometry" />
         </mxCell>
         <object label="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;User instructions&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;The orange boxes contain questions with two or three possible answers provided in the connected red boxes.&lt;br&gt;Clicking on the red/blue boxes opens up new questions the user must answer. Once the final question in the path is answered, a green box is displayed showing the name of the recommended method, in addition to &lt;/font&gt;&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;very brief explanation of the method, a link to software, the original paper and other resources describing the methodology.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Extra features:&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[UNDO] If you need to go back one step, click on the red/blue boxes with questions/method underneath them hides everything beneath them. If you want to clear the entire three, click on &quot;RESET DISPLAY&quot;. &lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[DISPLAY] If you want to explore the entire tree, click &quot;SHOW ENTIRE TREE&quot;.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;[QUESTION HELP] If you are unsure what to answer to a specific question, click on the bolded and underscored answers in the question to show one or more examples of use cases where the specific answer is appropriate.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;[FEEDBACK] We are very happy to receive feedback from our users on this tool. Please do so my opening an issue on our GitHub &lt;a href=&quot;https://github.com/NorskRegnesentral/explainable_ai_tree/issues&quot;&gt;here&lt;/a&gt;. &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;user_instructions&amp;quot;]}}]}&quot;&gt;Click here to hide these user instructions&lt;/a&gt;.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" id="user_instructions">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3XLRL7M_OkBcDrSNOy5R-57" vertex="1" visible="0">
             <mxGeometry x="-320" y="-290" width="620" height="620" as="geometry" />
           </mxCell>
         </object>
@@ -35,14 +35,14 @@
             <mxGeometry x="1110" y="40" width="240" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Specific predictions" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-obs&quot;,&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-feat&quot;,&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-one_example&quot;,&quot;pred-feat-change-cont-joint_example&quot;,&quot;pred-feat-change-cat-same_example&quot;,&quot;pred-feat-change-cat-diff_example&quot;,&quot;pred-feat-change-cont_example&quot;,&quot;pred-feat-change-cat_example&quot;,&quot;pred-feat-observ-joint-obey_example&quot;,&quot;pred-feat-observ-joint-ignore_example&quot;,&quot;pred-feat-observ-one_example&quot;,&quot;pred-feat-observ-joint_example&quot;,&quot;pred-feat-observ_example&quot;,&quot;pred-feat-change_example&quot;,&quot;pred-obs-observ_example&quot;,&quot;pred-obs-change_example&quot;,&quot;pred-obs_example&quot;,&quot;pred-feat_example&quot;]}},{&quot;viewbox&quot;:{&quot;x&quot;:730,&quot;y&quot;:30,&quot;width&quot;:2330,&quot;height&quot;:610}}]}" id="AjjH1u0YhgZfVa7CJSuS-106">
+        <UserObject label="Specific predictions" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-obs&quot;,&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-feat&quot;,&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-one_example&quot;,&quot;pred-feat-change-cont-joint_example&quot;,&quot;pred-feat-change-cat-same_example&quot;,&quot;pred-feat-change-cat-diff_example&quot;,&quot;pred-feat-change-cont_example&quot;,&quot;pred-feat-change-cat_example&quot;,&quot;pred-feat-observ-joint-obey_example&quot;,&quot;pred-feat-observ-joint-ignore_example&quot;,&quot;pred-feat-observ-one_example&quot;,&quot;pred-feat-observ-joint_example&quot;,&quot;pred-feat-observ_example&quot;,&quot;pred-feat-change_example&quot;,&quot;pred-obs-observ_example&quot;,&quot;pred-obs-change_example&quot;,&quot;pred-obs_example&quot;,&quot;pred-feat_example&quot;]}},{&quot;viewbox&quot;:{&quot;x&quot;:960,&quot;y&quot;:30,&quot;width&quot;:1630,&quot;height&quot;:440},&quot;border&quot;:1}]}" id="AjjH1u0YhgZfVa7CJSuS-106">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="root" vertex="1">
-            <mxGeometry x="1490" y="110" width="120" height="60" as="geometry" />
+            <mxGeometry x="1370" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Whole model" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;model&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;model-obs&quot;,&quot;model-obs_example&quot;,&quot;model-obs-observ&quot;,&quot;model-obs-observ_example&quot;,&quot;model-obs-change&quot;,&quot;model-obs-change_example&quot;,&quot;model-feat&quot;,&quot;model-feat_example&quot;,&quot;model-feat-observ&quot;,&quot;model-feat-observ_example&quot;,&quot;model-feat-observ-joint&quot;,&quot;model-feat-observ-joint_example&quot;,&quot;model-feat-observ-one&quot;,&quot;model-feat-observ-one_example&quot;,&quot;model-feat-change&quot;,&quot;model-feat-change_example&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-107">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="root" vertex="1">
-            <mxGeometry x="780" y="110" width="120" height="60" as="geometry" />
+            <mxGeometry x="970" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-110" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="root" source="AjjH1u0YhgZfVa7CJSuS-45" edge="1">
@@ -69,7 +69,7 @@
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <object label="model" id="model">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-69" value="Are you interested in how the &lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-feat_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-obs_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; or how the &lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-obs_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-feat_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; impact the model/prediction?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="model" vertex="1">
           <mxGeometry x="270" y="391" width="170" height="80" as="geometry" />
@@ -105,7 +105,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat" id="model-feat">
-          <mxCell style="" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <object label="" id="zoombox">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;opacity=0;" vertex="1" parent="model-feat">
@@ -159,7 +159,7 @@
           </mxCell>
         </UserObject>
         <object label="model-feat-observ" id="model-feat-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="VWkiNKKKYGmfoevGy9SL-62" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="model-feat-observ" source="VWkiNKKKYGmfoevGy9SL-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -221,7 +221,7 @@
           </mxCell>
         </UserObject>
         <object label="model-obs" id="model-obs">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-162" value="Are you interested in the effect of recording/using/&lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-obs-observ_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-obs-change_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;u&gt;&lt;b&gt;including the &lt;br&gt;observations&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, or the effect of &lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-obs-change_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model-obs-observ_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;u&gt;&lt;b&gt;changing the observed values&lt;/b&gt;&lt;/u&gt;&lt;/font&gt; &lt;/a&gt;of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="model-obs" vertex="1">
           <mxGeometry x="350" y="860" width="350" height="90" as="geometry" />
@@ -257,7 +257,7 @@
           </mxCell>
         </UserObject>
         <object label="model-obs-observ" id="model-obs-observ">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Banzhaf&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; Uses &lt;a href=&quot;http://eio.usc.es/pub/mte/descargas/ProyectosFinMaster/Proyecto_377.pdf#section.1.3&quot;&gt;Banzhaf values&lt;/a&gt; from game theory to decompose a model performance metric onto the training observations.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: The Banzhaf value of an observation is an unnormalized measure of how the model performance metric is affected by the inclusion of the observation.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: Currently not available&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;a href=&quot;https://arxiv.org/pdf/2205.15466.pdf&quot;&gt;Wang &amp;amp; Jia (2022)&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;a href=&quot;http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf&quot;&gt;Data Shapley&lt;/a&gt; is a related and alternative method using Shapley values instead of Banzhaf values. &lt;a href=&quot;https://arxiv.org/pdf/2205.15466.pdf&quot;&gt;There are theoretical and experiment based reasons to prefer Data Banzhaf&lt;/a&gt;, but Data Shapley has &lt;a href=&quot;https://github.com/amiratag/DataShapley&quot;&gt;available software&lt;/a&gt;.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="Kx8UVn3iyn3a3dbXKWuh-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;" parent="model-obs-observ" vertex="1">
@@ -265,7 +265,7 @@
           </mxCell>
         </UserObject>
         <object label="model-obs-change" id="model-obs-change">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
         <UserObject label="&lt;div&gt;&lt;p align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Cook&#39;s distance&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Short method description:&lt;/b&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Interpretation&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Software&lt;/b&gt;: &lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Original paper&lt;/b&gt;: &lt;/font&gt;&lt;a href=&quot;https://www.tandfonline.com/doi/pdf/10.1080/00401706.1977.10489493&quot;&gt;Cook (1977)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Other resources&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nice to know&lt;/b&gt;: &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" tags="" id="Kx8UVn3iyn3a3dbXKWuh-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=12;fillColor=#CCFFCC;align=left;strokeColor=#000000;" parent="model-obs-change" vertex="1">
@@ -299,16 +299,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Features" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-feat&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;pred-feat-change-cont-one&quot;,    &quot;pred-feat-change-cont-one_example&quot;,      &quot;pred-feat-change-cont-joint_example&quot;,     &quot;pred-feat-change-cat-same_example&quot;,     &quot;pred-feat-change-cat-diff_example&quot;,     &quot;pred-feat-change-cont_example&quot;,     &quot;pred-feat-change-cat_example&quot;,     &quot;pred-feat-observ-joint-obey_example&quot;,     &quot;pred-feat-observ-joint-ignore_example&quot;,     &quot;pred-feat-observ-one_example&quot;,     &quot;pred-feat-observ-joint_example&quot;,     &quot;pred-feat-observ_example&quot;,     &quot;pred-feat-change_example&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-140">
+        <UserObject label="Features" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-feat&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-one_example&quot;,&quot;pred-feat-change-cont-joint_example&quot;,&quot;pred-feat-change-cat-same_example&quot;,&quot;pred-feat-change-cat-diff_example&quot;,&quot;pred-feat-change-cont_example&quot;,&quot;pred-feat-change-cat_example&quot;,&quot;pred-feat-observ-joint-obey_example&quot;,&quot;pred-feat-observ-joint-ignore_example&quot;,&quot;pred-feat-observ-one_example&quot;,&quot;pred-feat-observ-joint_example&quot;,&quot;pred-feat-observ_example&quot;,&quot;pred-feat-change_example&quot;]}},{&quot;viewbox&quot;:{&quot;x&quot;:1680,&quot;y&quot;:300,&quot;width&quot;:910,&quot;height&quot;:510}}]}" id="AjjH1u0YhgZfVa7CJSuS-140">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="pred" vertex="1">
             <mxGeometry x="2000" y="377" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Training observations" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-obs&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;, &quot;pred-obs-observ_example&quot;,        &quot;pred-obs-change_example&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-141">
+        <UserObject label="Training observations" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-obs&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-obs-observ_example&quot;,&quot;pred-obs-change_example&quot;]}},{&quot;viewbox&quot;:{&quot;x&quot;:1980,&quot;y&quot;:310,&quot;width&quot;:1240,&quot;height&quot;:920}}]}" id="AjjH1u0YhgZfVa7CJSuS-141">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred" vertex="1">
             <mxGeometry x="2440" y="377" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="aP2VpopVjrioul_rHI4i-11" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=0;strokeColor=default;fillColor=default;opacity=30;" vertex="1" parent="pred">
+          <mxGeometry x="2020" y="-490" width="1240" height="490" as="geometry" />
+        </mxCell>
         <object label="pred-obs" id="pred-obs">
           <mxCell style="locked=1;" parent="0" visible="0" />
         </object>
@@ -373,7 +376,7 @@
         </mxCell>
         <UserObject label="Observing the features" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-feat-observ&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-observ-joint-obey_example&quot;,     &quot;pred-feat-observ-joint-ignore_example&quot;,     &quot;pred-feat-observ-one_example&quot;,     &quot;pred-feat-observ-joint_example&quot;]}}]}" id="axZdhlEYQxV-8kcbevLk-84">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="pred-feat" vertex="1">
-            <mxGeometry x="1530" y="710" width="120" height="60" as="geometry" />
+            <mxGeometry x="1690" y="710" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="axZdhlEYQxV-8kcbevLk-90" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" parent="pred-feat" edge="1">
@@ -386,7 +389,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Changing the observed feature values" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-feat-change&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;pred-feat-change-cont-one&quot;,     &quot;pred-feat-change-cont-one_example&quot;,      &quot;pred-feat-change-cont-joint_example&quot;,     &quot;pred-feat-change-cat-same_example&quot;,     &quot;pred-feat-change-cat-diff_example&quot;,     &quot;pred-feat-change-cont_example&quot;,     &quot;pred-feat-change-cat_example&quot;]}}]}" id="d4Mapz3kvTVa62sBlJeO-33">
+        <UserObject label="Changing the observed feature values" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred-feat-change&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-one_example&quot;,&quot;pred-feat-change-cont-joint_example&quot;,&quot;pred-feat-change-cat-same_example&quot;,&quot;pred-feat-change-cat-diff_example&quot;,&quot;pred-feat-change-cont_example&quot;,&quot;pred-feat-change-cat_example&quot;]}},{&quot;viewbox&quot;:{&quot;x&quot;:1670,&quot;y&quot;:610,&quot;width&quot;:1070,&quot;height&quot;:580}}]}" id="d4Mapz3kvTVa62sBlJeO-33">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="pred-feat" vertex="1">
             <mxGeometry x="2270" y="700" width="120" height="70" as="geometry" />
           </mxCell>
