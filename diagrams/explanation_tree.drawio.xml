@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T09:40:32.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="s-qh5Q4diyksjFc3tr_A" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T10:09:26.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="ePtfqyTCNPi6U9cRoOSq" version="21.1.1" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="11627" dy="6857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3669" dy="2666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -28,34 +28,34 @@
           <mxCell style="" parent="0" />
         </object>
         <UserObject label="Do you want to explain the &lt;font color=&quot;#FF0000&quot;&gt;&lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;&lt;u&gt;whole model&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; &lt;/font&gt;or &lt;u&gt;&lt;b&gt;&lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;model_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#007FFF&quot;&gt;specific prediction&lt;/font&gt;&lt;/a&gt;&lt;font color=&quot;#007FFF&quot;&gt;s&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;font color=&quot;#000000&quot;&gt; ?&lt;/font&gt;&lt;/font&gt;&lt;u&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;" tooltip="" id="AjjH1u0YhgZfVa7CJSuS-45">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="root" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="root" vertex="1">
             <mxGeometry x="1110" y="-10" width="240" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Specific predictions" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;pred&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;pred-obs&quot;,&quot;pred-obs-observ&quot;,&quot;pred-obs-change&quot;,&quot;pred-feat&quot;,&quot;pred-feat-observ&quot;,&quot;pred-feat-observ-joint&quot;,&quot;pred-feat-observ-joint-obey&quot;,&quot;pred-feat-observ-joint-ignore&quot;,&quot;pred-feat-observ-one&quot;,&quot;pred-feat-change&quot;,&quot;pred-feat-change-cat&quot;,&quot;pred-feat-change-cat-same&quot;,&quot;pred-feat-change-cat-diff&quot;,&quot;pred-feat-change-cont&quot;,&quot;pred-feat-change-cont-joint&quot;,&quot;pred-feat-change-cont-one&quot;,&quot;pred-feat-change-cont-one_example&quot;,      &quot;pred-feat-change-cont-joint_example&quot;,     &quot;pred-feat-change-cat-same_example&quot;,     &quot;pred-feat-change-cat-diff_example&quot;,     &quot;pred-feat-change-cont_example&quot;,     &quot;pred-feat-change-cat_example&quot;,     &quot;pred-feat-observ-joint-obey_example&quot;,     &quot;pred-feat-observ-joint-ignore_example&quot;,     &quot;pred-feat-observ-one_example&quot;,     &quot;pred-feat-observ-joint_example&quot;,     &quot;pred-feat-observ_example&quot;,     &quot;pred-feat-change_example&quot;,     &quot;pred-obs-observ_example&quot;,     &quot;pred-obs-change_example&quot;,     &quot;pred-obs_example&quot;,     &quot;pred-feat_example&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-106">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="root" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="root" vertex="1">
             <mxGeometry x="1370" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Whole model" link="data:action/json,{&quot;actions&quot;:[{&quot;toggle&quot;:{&quot;cells&quot;:[&quot;model&quot;]}},{&quot;hide&quot;:{&quot;cells&quot;:[&quot;model-obs&quot;,&quot;model-obs_example&quot;,&quot;model-obs-observ&quot;,&quot;model-obs-observ_example&quot;,&quot;model-obs-change&quot;,&quot;model-obs-change_example&quot;,&quot;model-feat&quot;,&quot;model-feat_example&quot;,&quot;model-feat-observ&quot;,&quot;model-feat-observ_example&quot;,&quot;model-feat-observ-joint&quot;,&quot;model-feat-observ-joint_example&quot;,&quot;model-feat-observ-one&quot;,&quot;model-feat-observ-one_example&quot;,&quot;model-feat-change&quot;,&quot;model-feat-change_example&quot;]}}]}" id="AjjH1u0YhgZfVa7CJSuS-107">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="root" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="root" vertex="1">
             <mxGeometry x="970" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AjjH1u0YhgZfVa7CJSuS-110" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="root" source="AjjH1u0YhgZfVa7CJSuS-45" edge="1" target="AjjH1u0YhgZfVa7CJSuS-5">
+        <mxCell id="AjjH1u0YhgZfVa7CJSuS-110" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;endSize=6;startSize=6;jumpSize=6;targetPerimeterSpacing=0;strokeWidth=3;" parent="root" source="AjjH1u0YhgZfVa7CJSuS-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="160" as="sourcePoint" />
-            <mxPoint x="2280" y="320" as="targetPoint" />
+            <mxPoint x="2260" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1230" y="170" />
-              <mxPoint x="2260" y="170" />
+              <mxPoint x="1230" y="140" />
+              <mxPoint x="2260" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AjjH1u0YhgZfVa7CJSuS-111" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="root" source="AjjH1u0YhgZfVa7CJSuS-45" edge="1" target="AjjH1u0YhgZfVa7CJSuS-69">
+        <mxCell id="AjjH1u0YhgZfVa7CJSuS-111" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;" parent="root" source="AjjH1u0YhgZfVa7CJSuS-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="140.00000000000045" as="sourcePoint" />
-            <mxPoint x="360" y="390" as="targetPoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1230" y="170" />
               <mxPoint x="380" y="170" />
@@ -217,7 +217,7 @@
         <object label="pred" id="pred">
           <mxCell style="" parent="0" />
         </object>
-        <mxCell id="AjjH1u0YhgZfVa7CJSuS-5" value="&lt;div&gt;Are you interested in how the &lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-feat_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; or how the &lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-feat_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; impact the prediction?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="pred" vertex="1">
+        <mxCell id="AjjH1u0YhgZfVa7CJSuS-5" value="&lt;div&gt;Are you interested in how the &lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-feat_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;u&gt;&lt;b&gt;training observations&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; or how the &lt;a href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-feat_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs_example&amp;quot;]}}]}&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;u&gt;&lt;b&gt;features&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; impact the prediction?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="pred" vertex="1">
           <mxGeometry x="2160" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AjjH1u0YhgZfVa7CJSuS-14" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="pred" edge="1" target="AjjH1u0YhgZfVa7CJSuS-167">
