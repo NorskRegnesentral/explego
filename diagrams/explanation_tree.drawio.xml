@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T11:15:07.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="zQC9NKN3jdiE-1naYf7Y" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T11:17:25.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="OQbWuo_CFz0PA-P7SpBI" version="21.3.0" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="4003" dy="2842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2569" dy="2086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -330,15 +330,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S39S6St_T4CxQJkzBJ4q-53" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="pred-obs" source="AjjH1u0YhgZfVa7CJSuS-140" target="AjjH1u0YhgZfVa7CJSuS-167">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2020" y="650" as="sourcePoint" />
-            <mxPoint x="1900" y="700" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2010" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S39S6St_T4CxQJkzBJ4q-54" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="pred-obs" source="AjjH1u0YhgZfVa7CJSuS-167" target="d4Mapz3kvTVa62sBlJeO-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2260" y="900" as="sourcePoint" />
@@ -435,6 +426,15 @@
             <mxGeometry x="2130" y="860" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="S39S6St_T4CxQJkzBJ4q-61" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;exitX=0.016;exitY=0.488;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="pred-feat" source="AjjH1u0YhgZfVa7CJSuS-140" target="AjjH1u0YhgZfVa7CJSuS-167">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="550" as="sourcePoint" />
+            <mxPoint x="2010" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2010" y="549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <object label="pred-feat-observ" id="pred-feat-observ">
           <mxCell style="" parent="0" />
         </object>
@@ -670,62 +670,62 @@
           <mxCell style="" parent="0" />
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;EXAMPLE CASES: ONE FEATURE AT A TIME&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;You need to supply a reduced, simplified account of individual feature contributions to respond to user requests or to explore potential tensions with legal requirements.&lt;br&gt;&lt;/li&gt;&lt;li&gt;You are developing/debugging your model and want to understand the importance of adding each of the features on top of the others.&lt;/li&gt;&lt;li&gt;You appreciate that interactions likely play a role, but want to understand how a specific feature (e.g. age) contributes to a first approximation.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="model-feat-observ-one_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="-810" y="960" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;EXAMPLE CASES: CHANGING THE OBSERVED VALUES&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;You feature space is set and defined (e.g. guided by predefined criteria set in practice, guidelines or law), and you want to understand how a given changes in feature values impact model outcomes, e.g. to show that the model adheres to expectations / regulation. &lt;/li&gt;&lt;li&gt;Your features are prone to erratic behaviour and you want to assess the stability of model outcomes wrt to these changes.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="model-feat-change_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="130" y="620" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;EXAMPLE CASES: TRAINING OBSERVATIONS&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Data collection is costly and you want to focus your resources on the data that are most valuable for specific predictions (or the performance of the whole model).&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Data may come from different sources, and you want to understand how the different sources contribute. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Your features are fixed/settled, but your data has changed, e.g. due to the introduction of a new software system or a new law. You want to understand this effect.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="model-obs_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="500" y="290" width="340" height="190" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;EXAMPLE CASES: FEATURES&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;ol&gt;&lt;li&gt;You are developing your model and want to understand how your features shape your model behavior. &lt;br&gt;&lt;/li&gt;&lt;li&gt;You want to understand which features contribute the most to the reponse in your model.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="model-feat_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="-80" y="280" width="340" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;EXAMPLE CASES: OBSERVING THE FEATURES&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;You have built a model and wish to understand how a specific feature set compares to different feature set &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" id="model-feat-observ_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="-460" y="620" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;EXAMPLE CASES: JOINT EFFORTS&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;You want to the full picture including, accounting for interactions between features.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="model-feat-observ-joint_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="-220" y="960" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;EXAMPLE CASES: WHOLE MODEL&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When you are interested in the model performance and “typical” behavior of the model in general. &lt;br&gt;&lt;/li&gt;&lt;li&gt;You want to assess whether the model adheres to business logic / regulatory stipulations &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="model_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="740" y="-110" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;EXAMPLE CASES: SPECIFIC PREDICTIONS&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When you are interested in the model performance and behavior for specific individuals/instances/observations. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Your model outcome has consequences for end users (e.g. direct or indirect access to service/benefit/options/etc)&amp;nbsp; &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="pred_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="1370" y="-110" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;EXAMPLE CASES: FEATURES&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;You want to advice model users on how changes in the features affect the prediction/outcome.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="pred-feat_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="1790" y="300" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;EXAMPLE CASES: TRAINING OBSERVATIONS &lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Data collection is costly and you want to focus your resources on the data that are most valuable for specific predictions (or the performance of the whole model).&lt;/li&gt;&lt;li&gt;Data may come from different sources, and you want to understand how the different sources contribute. &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="pred-obs_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="2380" y="300" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;EXAMPLE CASES: INCLUDING THE OBSERVATIONS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;You are interested in the value or effect inclusion of a specific observation or set of observations (for instance from a specific data source or so) has on a prediction. &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="pred-obs-observ_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="3770" y="640" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;&lt;font color=&quot;#007FFF&quot;&gt;EXAMPLE CASES: CHANGING THE OBSERVED VALUES&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;You are interested in how sensitive a specific prediction is to a certain observation of set of observations (for instance from a specific data source). &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" id="pred-obs-change_example">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;strokeWidth=3;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="4360" y="640" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
