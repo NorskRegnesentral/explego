@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T13:31:23.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="3u3nNnwZWUpYpVr9P7_r" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T09:10:27.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="VzUzPXprWDS0fmzlcfOF" version="21.2.9" type="github">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="9000" dy="5909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4909" dy="3754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -281,7 +281,7 @@
             <mxGeometry x="300" y="1050" width="340" height="400" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TVgQW6KyR4kE60Jfiw1D-0" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;exitX=0.536;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="model-feat-change" source="VWkiNKKKYGmfoevGy9SL-66" target="Kx8UVn3iyn3a3dbXKWuh-10">
+        <mxCell id="TVgQW6KyR4kE60Jfiw1D-0" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;exitX=0.536;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="model-feat-change" source="VWkiNKKKYGmfoevGy9SL-66" target="Kx8UVn3iyn3a3dbXKWuh-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="910" as="sourcePoint" />
             <mxPoint x="660" y="1000" as="targetPoint" />
@@ -356,7 +356,7 @@
         <mxCell id="S39S6St_T4CxQJkzBJ4q-47" value="Are you interested in the effect of recording/using/&lt;a style=&quot;font-size: 14px;&quot; href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs-observ_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs-change_example&amp;quot;]}}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#FF0000&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;observing the features&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, or the effect of &lt;a style=&quot;font-size: 14px;&quot; href=&quot;data:action/json,{&amp;quot;actions&amp;quot;:[{&amp;quot;toggle&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs-change_example&amp;quot;]}},{&amp;quot;hide&amp;quot;:{&amp;quot;cells&amp;quot;:[&amp;quot;pred-obs-observ_example&amp;quot;]}}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#007FFF&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;changing the observed values&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; of the features?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;fontSize=14;" parent="pred-obs" vertex="1">
           <mxGeometry x="2949" y="840" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="S39S6St_T4CxQJkzBJ4q-48" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="pred-obs" source="AjjH1u0YhgZfVa7CJSuS-141" edge="1" target="S39S6St_T4CxQJkzBJ4q-47">
+        <mxCell id="S39S6St_T4CxQJkzBJ4q-48" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="pred-obs" source="AjjH1u0YhgZfVa7CJSuS-141" target="S39S6St_T4CxQJkzBJ4q-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2170" y="570" as="sourcePoint" />
             <mxPoint x="3919" y="740" as="targetPoint" />
@@ -511,7 +511,7 @@
             <mxGeometry x="1160" y="1400" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="738DMH2_6MTDa_N4Hbik-1" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="pred-feat-observ" edge="1" target="axZdhlEYQxV-8kcbevLk-33">
+        <mxCell id="738DMH2_6MTDa_N4Hbik-1" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="pred-feat-observ" target="axZdhlEYQxV-8kcbevLk-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1440" y="990" as="sourcePoint" />
             <mxPoint x="1040" y="1190" as="targetPoint" />
