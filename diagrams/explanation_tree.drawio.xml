@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T15:13:46.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="wosw3UX119d_WJhRPWUk" version="21.2.9" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:00:52.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Ukjy0X-CRG5K06kNNkFZ" version="21.3.3" type="device">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="1473" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -39,6 +39,18 @@
             <mxGeometry x="1930" y="-310" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="EYYxobT2boCgkpO6wcEL-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3XLRL7M_OkBcDrSNOy5R-57">
+          <mxGeometry x="3520" y="2480" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EYYxobT2boCgkpO6wcEL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3XLRL7M_OkBcDrSNOy5R-57">
+          <mxGeometry x="-560" y="2480" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EYYxobT2boCgkpO6wcEL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3XLRL7M_OkBcDrSNOy5R-57">
+          <mxGeometry x="-570" y="-850" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EYYxobT2boCgkpO6wcEL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3XLRL7M_OkBcDrSNOy5R-57">
+          <mxGeometry x="3520" y="-850" width="10" height="10" as="geometry" />
+        </mxCell>
         <object label="root" id="root">
           <mxCell style="" parent="0" />
         </object>
