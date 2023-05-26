@@ -47,7 +47,7 @@ Explainability is key requisite for trustworthy AI, but selecting the right XAI-
 --->
 
 
-This is a collaborative project between [Norsk Regnesentral](https://nr.no) and the Norwegian Labour and Welfare Administration ([NAV](https://nav.no)),  funded by [BigInsight](https://www.biginsight.no).
+This is a collaborative project between [Norsk Regnesentral](https://nr.no/en/) and the Norwegian Labour and Welfare Administration ([NAV](https://nav.no)),  funded by [BigInsight](https://www.biginsight.no).
 
 
 
