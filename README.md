@@ -4,7 +4,22 @@
 </p>
 --->
 
+# XAI tree
+
 Explainability is key requisite for trustworthy AI, but selecting the right XAI-method to accompany your model development can be a challenging task. **XAI tree** is a decision tree toolkit that provides developers with interactive guidance to help select an appropriate XAI-method for their particular use case.
+
+<br>
+
+<div align = center>
+  
+[![Button Example]][Link]
+
+[Button Example]: https://img.shields.io/badge/Try_the_tool!-37a779?style=for-the-badge
+[Link]: https://xai-tree.nr.no 
+
+<br>
+  
+<!---
 
 <style>
 .button {
@@ -29,9 +44,10 @@ Explainability is key requisite for trustworthy AI, but selecting the right XAI-
 <div class="center">
   <button class="btn btn-success" onclick="location.href='https://xai-tree.nr.no';">Try the tool!</button>
 </div>
+--->
 
 
-This is a collaborative project between [Norsk Regnesentral ](https://nr.no){size=4} and the Norwegian Labour and Welfare Administration ([NAV](https://nav.no)),  funded by [BigInsight](https://www.biginsight.no).
+This is a collaborative project between [Norsk Regnesentral](https://nr.no) and the Norwegian Labour and Welfare Administration ([NAV](https://nav.no)),  funded by [BigInsight](https://www.biginsight.no).
 
 
 
