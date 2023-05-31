@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-05-31T06:36:35.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="Ugi01D7MHwR4nNpwBXnj" version="21.2.8" type="device">
+<mxfile host="Electron" modified="2023-05-31T06:40:49.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="fH-oDS9V2eG40f6QoqnW" version="21.2.8" type="device">
   <diagram id="S-bG89fc7_h-scHxdbOs" name="Forklarbarhetstre">
-    <mxGraphModel dx="7694" dy="5139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3116" dy="2492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Background" id="3XLRL7M_OkBcDrSNOy5R-57">
@@ -851,7 +851,7 @@
             <mxGeometry x="-70" y="1070" width="350" height="200" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;div align=&quot;center&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;EXAMPLE CASES: WHOLE MODEL&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;1. When you are interested in the model performance and “typical” behavior of the model in general.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;2. You want to assess whether the model adheres to business logic / regulatory stipulations &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" id="model_example">
+        <object label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;EXAMPLE CASES: WHOLE MODEL&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1.&amp;nbsp; When you are interested in the model performance and “typical” behavior of the model in general.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;2. You want to assess whether the model adheres to business logic / regulatory stipulations &lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" id="model_example">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;align=left;strokeWidth=3;" parent="examples" vertex="1" visible="0">
             <mxGeometry x="750" y="-100" width="350" height="200" as="geometry" />
           </mxCell>
