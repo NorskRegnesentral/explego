@@ -4,7 +4,7 @@
 </p>
 --->
 
-# XAI tree
+# eXplego
 
 Explainability is key requisite for trustworthy AI, but selecting the right XAI-method to accompany your model development can be a challenging task. **eXplego** is a decision tree toolkit that provides developers with interactive guidance to help select an appropriate XAI-method for their particular use case.
 
