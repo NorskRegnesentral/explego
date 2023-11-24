@@ -16,6 +16,7 @@ Explainability is key requisite for trustworthy AI, but selecting the right XAI-
 
 [Button Example]: https://img.shields.io/badge/Try_the_tool!-37a779?style=for-the-badge
 [Link]: https://explego.nr.no 
+</div>
 
 <br>
   
@@ -47,7 +48,16 @@ Explainability is key requisite for trustworthy AI, but selecting the right XAI-
 --->
 
 
-This is a collaborative project between [Norsk Regnesentral](https://nr.no/en/) and the Norwegian Labour and Welfare Administration ([NAV](https://nav.no)),  funded by [BigInsight](https://www.biginsight.no).
+More information about our tool, including a brief list with the reasoning for the positioning of every method in the tree, is provided in our short research paper:
+
+Jullum, M., Sjødin, J., Prabhu, R., & Løland, A. (2023). eXplego: An interactive tool that helps you select appropriate XAI-methods for your explainability needs
+
+which was presented as a demo at the 1st World Conference in Explainable AI (2023).
+To cite our tool, please use [this citation](./CITATION.bib).
+
+We are very happy to receive feedback from our users on this tool. Please do so by opening an issue in this repo.
+
+This is a collaborative project between [Norwegian Computing Center](https://nr.no/en/) and the Norwegian Labour and Welfare Administration ([NAV](https://nav.no)),  funded by [BigInsight](https://www.biginsight.no).
 
 
 
