@@ -4,9 +4,9 @@
 </p>
 --->
 
-# XAI tree
+# eXplego
 
-Explainability is key requisite for trustworthy AI, but selecting the right XAI-method to accompany your model development can be a challenging task. **XAI tree** is a decision tree toolkit that provides developers with interactive guidance to help select an appropriate XAI-method for their particular use case.
+Explainability is key requisite for trustworthy AI, but selecting the right XAI-method to accompany your model development can be a challenging task. **eXplego** is a decision tree toolkit that provides developers with interactive guidance to help select an appropriate XAI-method for their particular use case.
 
 <br>
 
@@ -15,7 +15,7 @@ Explainability is key requisite for trustworthy AI, but selecting the right XAI-
 [![Button Example]][Link]
 
 [Button Example]: https://img.shields.io/badge/Try_the_tool!-37a779?style=for-the-badge
-[Link]: https://xai-tree.nr.no 
+[Link]: https://explego.nr.no 
 
 <br>
   
@@ -42,7 +42,7 @@ Explainability is key requisite for trustworthy AI, but selecting the right XAI-
   }
 </style>
 <div class="center">
-  <button class="btn btn-success" onclick="location.href='https://xai-tree.nr.no';">Try the tool!</button>
+  <button class="btn btn-success" onclick="location.href='https://explego.nr.no';">Try the tool!</button>
 </div>
 --->
 
