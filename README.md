@@ -69,3 +69,5 @@ This is a collaborative project between [Norwegian Computing Center](https://nr.
 <img align="right" width="12%" src="./images/BigI_logo_RGB.png" style="vertical-align: bottom">
 </p>
 </div>
+
+Explego v 1.0.3, last updated 2023-12-08. See [changelog](changelog.md) for details.
