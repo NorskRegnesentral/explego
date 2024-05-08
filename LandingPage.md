@@ -37,7 +37,7 @@ This is a collaborative project between [Norsk Regnesentral ](https://nr.no){siz
 
 <div class="center">
 <p align="center">
-<img align="left" width="20%" src="./images/NR-logo_utvidet.png" style="vertical-align: bottom">
+<img align="left" width="20%" src="./images/NR-logo_black-1536x274.png" style="vertical-align: bottom">
 <img width="10%" src="./images/R%C3%B8d.png" style="vertical-align: bottom">
 <img align="right" width="12%" src="./images/BigI_logo_RGB.png" style="vertical-align: bottom">
 </p>
