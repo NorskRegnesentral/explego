@@ -47,8 +47,18 @@ Explainability is key requisite for trustworthy AI, but selecting the right XAI-
 </div>
 --->
 
+To get to know the tool we recommend checking out the demonstration video below
 
-More information about our tool, including a brief list with the reasoning for the positioning of every method in the tree, is provided in our short research paper:
+**English**
+
+[![YouTube](http://i.ytimg.com/vi/Ntc3uOrU7bE/hqdefault.jpg)](https://www.youtube.com/watch?v=Ntc3uOrU7bE)
+
+
+**Norwegian**
+
+[![YouTube](http://i.ytimg.com/vi/7_OFWIjKJ2A/hqdefault.jpg)](https://www.youtube.com/watch?v=7_OFWIjKJ2A)
+
+More information about the tool, including a brief list with the reasoning for the positioning of every method in the tree, is provided in our short research paper:
 
 [Jullum, M., Sjødin, J., Prabhu, R., & Løland, A. (2023). eXplego: An interactive tool that helps you select appropriate XAI-methods for your explainability needs](https://ceur-ws.org/Vol-3554/paper26.pdf)
 
